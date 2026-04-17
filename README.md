@@ -12,13 +12,9 @@ Here you can explore some of my projects.
             <td align="center"><a href="https://github.com/manuu1311/SeagullStory"><img
                         src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" height="54rem" width="54rem"
                         title="Seagull Story"></a></td>
-        </tr>
-      <tr>
             <td align="center"><a href="https://github.com/manuu1311/Blockade_aimbot"><img
                         src="https://github.com/manuu1311/Blockade_aimbot/blob/main/logo.png" height="54rem" width="54rem"
                         title="Blockade Aimbot"></a></td>
-        </tr>
-      <tr>
             <td align="center"><a href="https://github.com/manuu1311/FlappyUnity"><img
                         src="https://github.com/manuu1311/FlappyUnity/blob/main/logo.png" height="54rem" width="54rem"
                         title="Flappy Unity"></a></td>
