@@ -13,6 +13,16 @@ Here you can explore some of my projects.
                         src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" height="54rem" width="54rem"
                         title="Seagull Story"></a></td>
         </tr>
+      <tr>
+            <td align="center"><a href="https://github.com/manuu1311/Blockade_aimbot"><img
+                        src="https://github.com/manuu1311/Blockade_aimbot/blob/main/logo.png" height="54rem" width="54rem"
+                        title="Blockade Aimbot"></a></td>
+        </tr>
+      <tr>
+            <td align="center"><a href="https://github.com/manuu1311/FlappyUnity"><img
+                        src="https://github.com/manuu1311/FlappyUnity/blob/main/logo.png" height="54rem" width="54rem"
+                        title="Flappy Unity"></a></td>
+        </tr>
 </details>
 <!--
 **manuu1311/manuu1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
