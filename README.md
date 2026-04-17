@@ -1,7 +1,6 @@
 ## Hi there 👋
-I'm Emanuele Pocelli, a recent graduate with an MSc in Computer Science and Engineering - Artificial Intelligence from Politecnico di Milano.
-\\
-I'm passionate about Programming, Computer Science, Videogames and Artificial Intelligence, particularly Computer Vision, Natural Language Processing and Deep Learning. 
+I'm Emanuele Pocelli, a recent graduate with an MSc in Computer Science and Engineering - Artificial Intelligence from Politecnico di Milano.  
+I'm passionate about Programming, Computer Science, Videogames and Artificial Intelligence, particularly Computer Vision, Natural Language Processing and Deep Learning.  
 Here you can explore some of my projects.
 
 <details>
