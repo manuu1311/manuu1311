@@ -16,7 +16,7 @@ Here you can explore some of my projects.
                         src="https://github.com/manuu1311/Blockade_aimbot/blob/main/logo.png" height="54rem" width="54rem"
                         title="Blockade Aimbot"></a></td>
             <td align="center"><a href="https://github.com/manuu1311/AirHockey/"><img
-                        src="https://github.com/manuu1311/AirHockey/main/logo.png" height="54rem" width="54rem"
+                        src="https://github.com/manuu1311/AirHockey/blob/main/logo.png" height="54rem" width="54rem"
                         title="Air Hockey"></a></td>
             <td align="center"><a href="https://github.com/manuu1311/FlappyUnity"><img
                         src="https://github.com/manuu1311/FlappyUnity/blob/main/logo.png" height="54rem" width="54rem"
