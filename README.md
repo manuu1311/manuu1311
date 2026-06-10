@@ -5,24 +5,20 @@ I'm passionate about Programming, Computer Science, Videogames and Artificial In
   
 Here you can explore some of my projects.
 
-<details>
-    <summary>My projects</summary>
-    <table align="left" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-        <tr>
-            <td align="center"><a href="https://github.com/manuu1311/SeagullStory"><img
-                        src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" height="54rem" width="54rem"
-                        title="Seagull Story"></a></td>
-          <td align="center"><a href="https://github.com/manuu1311/AirHockey/"><img
-                        src="https://github.com/manuu1311/AirHockey/blob/main/air-hockey/logo.png" height="54rem" width="54rem"
-                        title="Air Hockey"></a></td>
-            <td align="center"><a href="https://github.com/manuu1311/Blockade_aimbot"><img
-                        src="https://github.com/manuu1311/Blockade_aimbot/blob/main/logo.png" height="54rem" width="54rem"
-                        title="Blockade Aimbot"></a></td>
-            <td align="center"><a href="https://github.com/manuu1311/FlappyUnity"><img
-                        src="https://github.com/manuu1311/FlappyUnity/blob/main/logo.png" height="54rem" width="54rem"
-                        title="Flappy Unity"></a></td>
-        </tr>
-</details>
+<p align="center">
+  <a href="https://github.com/manuu1311/SeagullStory">
+    <img src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" width="54" title="Seagull Story">
+  </a>
+  <a href="https://github.com/manuu1311/AirHockey">
+    <img src="https://github.com/manuu1311/AirHockey/blob/main/air-hockey/logo.png" width="54" title="Air Hockey">
+  </a>
+  <a href="https://github.com/manuu1311/Blockade_aimbot">
+    <img src="https://github.com/manuu1311/Blockade_aimbot/blob/main/logo.png" width="54" title="Blockade Aimbot">
+  </a>
+  <a href="https://github.com/manuu1311/FlappyUnity">
+    <img src="https://github.com/manuu1311/FlappyUnity/blob/main/logo.png" width="54" title="Flappy Unity">
+  </a>
+</p>
 <!--
 **manuu1311/manuu1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
