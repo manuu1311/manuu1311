@@ -3,9 +3,9 @@ I'm Emanuele Pocelli, a recent graduate with an MSc in Computer Science and Engi
   
 I'm passionate about Programming, Computer Science, Videogames and Artificial Intelligence, particularly Reinforcement Learning, Computer Vision, Natural Language Processing and Deep Learning.  
   
-Here you can explore some of my projects.
+Here you can explore some of my projects:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/manuu1311/SeagullStory">
     <img src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" width="54" title="Seagull Story">
   </a>
