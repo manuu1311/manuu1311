@@ -7,7 +7,10 @@ Here you can explore some of my projects:
 
 <p align="left">
   <a href="https://github.com/manuu1311/SeagullStory">
-    <img src="https://github.com/manuu1311/SeagullStory/blob/main/logo.png" width="54" title="Seagull Story">
+    <img src="https://github.com/manuu1311/RaccoonRacing/blob/main/raccoon-racing/Assets/logo.png" width="54" title="Seagull Story">
+  </a>
+  <a href="https://github.com/manuu1311/RaccoonRacing">
+    <img src="https://github.com/manuu1311/AirHockey/blob/main/air-hockey/logo.png" width="54" title="Air Hockey">
   </a>
   <a href="https://github.com/manuu1311/AirHockey">
     <img src="https://github.com/manuu1311/AirHockey/blob/main/air-hockey/logo.png" width="54" title="Air Hockey">
